@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5714efd4-7324-4e1b-9327-a85ef81c679a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5714efd4-7324-4e1b-9327-a85ef81c679a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,39 +22,30 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="6" />
+          <entry key="py" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="6" />
+          <entry key="Python" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="2" />
-          <entry key="py" value="1726" />
+          <entry key="py" value="3173" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="1726" />
+          <entry key="Python" value="3173" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Daily Problem/src/20-07-06-63-unique-paths-ii.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Daily Problem/src/20-07-08-1611-diving-board-lcci.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -70,10 +59,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DFS+BFS/src/house-robber.py">
+        <entry file="file://$PROJECT_DIR$/Daily Problem/src/20-07-09-1713-re-space-lcci.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="41" column="21" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="41" selection-end-column="21" />
+            <state relative-caret-position="159">
+              <caret line="73" column="38" lean-forward="true" selection-start-line="73" selection-start-column="38" selection-end-line="73" selection-end-column="38" />
+              <folding>
+                <marker date="1594478980175" expanded="true" signature="121:442" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -96,14 +88,15 @@
         <option value="$PROJECT_DIR$/Daily Problem/src/20-07-07-112-path-sum.py" />
         <option value="$PROJECT_DIR$/Daily Problem/src/20-07-08-1611-diving-board-lcci.py" />
         <option value="$PROJECT_DIR$/DFS+BFS/src/house-robber.py" />
+        <option value="$PROJECT_DIR$/Daily Problem/src/20-07-09-1713-re-space-lcci.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="35" />
-    <option name="y" value="149" />
+    <option name="x" value="-46" />
+    <option name="y" value="59" />
     <option name="width" value="1620" />
-    <option name="height" value="700" />
+    <option name="height" value="758" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -123,12 +116,12 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="DFS+BFS" type="462c0819:PsiDirectoryNode" />
+              <item name="Daily Problem" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="DFS+BFS" type="462c0819:PsiDirectoryNode" />
+              <item name="Daily Problem" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -142,6 +135,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\风之子\Desktop\leetcode\leetcode\DP\src" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\风之子\Desktop\leetcode\leetcode\BackTracking\src" />
       <recent name="C:\Users\风之子\Desktop\leetcode\leetcode\DFS+BFS\src" />
@@ -159,7 +155,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.house-robber">
+  <component name="RunManager" selected="Python.20-07-09-1713-re-space-lcci">
+    <configuration name="20-07-09-1713-re-space-lcci" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Daily Problem/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Daily Problem/src/20-07-09-1713-re-space-lcci.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="house-robber" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -179,21 +196,6 @@
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for 20-07-08-1611-diving-board-lcci.test" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Daily Problem/src" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;20-07-08-1611-diving-board-lcci.test&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="pytest for house-robber.test" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
@@ -242,19 +244,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.pytest for 20-07-08-1611-diving-board-lcci.test" />
       <item itemvalue="Python tests.pytest in 20-07-08-1611-diving-board-lcci.py" />
       <item itemvalue="Python tests.pytest for house-robber.test" />
       <item itemvalue="Python tests.pytest for house_robber.test" />
       <item itemvalue="Python.house-robber" />
+      <item itemvalue="Python.20-07-09-1713-re-space-lcci" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.20-07-09-1713-re-space-lcci" />
         <item itemvalue="Python.house-robber" />
         <item itemvalue="Python tests.pytest for house_robber.test" />
         <item itemvalue="Python tests.pytest for house-robber.test" />
         <item itemvalue="Python tests.pytest in 20-07-08-1611-diving-board-lcci.py" />
-        <item itemvalue="Python tests.pytest for 20-07-08-1611-diving-board-lcci.test" />
       </list>
     </recent_temporary>
   </component>
@@ -280,7 +282,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="131" y="137" width="1620" height="700" extended-state="0" />
+    <frame x="-46" y="59" width="1620" height="758" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24905184" />
@@ -288,8 +290,8 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32920355" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32744783" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.46869984" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -304,6 +306,17 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Daily Problem/src/20-07-09-1713-re-space-lcci.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/DFS+BFS/src/20-07-07-112-path-sum.py">
@@ -330,6 +343,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DP/src/house-robber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Daily Problem/src/20-07-08-1611-diving-board-lcci.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -340,10 +360,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DFS+BFS/src/house-robber.py">
+    <entry file="file://$PROJECT_DIR$/Daily Problem/src/20-07-09-1713-re-space-lcci.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="41" column="21" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="41" selection-end-column="21" />
+        <state relative-caret-position="159">
+          <caret line="73" column="38" lean-forward="true" selection-start-line="73" selection-start-column="38" selection-end-line="73" selection-end-column="38" />
+          <folding>
+            <marker date="1594478980175" expanded="true" signature="121:442" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
