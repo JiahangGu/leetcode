@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5714efd4-7324-4e1b-9327-a85ef81c679a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DP/src/20-7-15-unique-binary-search-trees.py" beforeDir="false" afterPath="$PROJECT_DIR$/DP/src/20-7-15-96-unique-binary-search-trees.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Daily Problem/src/20-7-15-unique-binary-search-trees.py" beforeDir="false" afterPath="$PROJECT_DIR$/Daily Problem/src/20-7-15-96-unique-binary-search-trees.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,53 +27,30 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="31" />
+          <entry key="py" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="31" />
+          <entry key="Python" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="6" />
-          <entry key="py" value="11555" />
+          <entry key="dummy" value="12" />
+          <entry key="py" value="12188" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="11555" />
+          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="Python" value="12188" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Daily Problem/src/20-7-11-315-count-of-smaller-numbers-after-self.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Daily Problem/src/20-7-15-unique-binary-search-trees.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DP/src/20-7-15-unique-binary-search-trees.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Daily Problem/src/20-7-16-785-is-graph-bipartite.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -115,11 +94,34 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Daily Problem/src/20-7-20-167-two-sum-ii-input-array-is-sorted.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+            <state relative-caret-position="298">
+              <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Binary Search/src/20-7-20-167-two-sum-ii-input-array-is-sorted.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Review Problem/gjh/20-7-18-97-interleaving-string.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Daily Problem/src/20-7-21-95-unique-binary-search-trees-ii.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -163,12 +165,13 @@
         <option value="$PROJECT_DIR$/Daily Problem/src/20-7-19-312-burst-balloons.py" />
         <option value="$PROJECT_DIR$/Daily Problem/src/20-7-18-97-interleaving-string.py" />
         <option value="$PROJECT_DIR$/Daily Problem/src/20-7-20-167-two-sum-ii-input-array-is-sorted.py" />
+        <option value="$PROJECT_DIR$/Daily Problem/src/20-7-21-95-unique-binary-search-trees-ii.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="148" />
-    <option name="y" value="78" />
+    <option name="x" value="50" />
+    <option name="y" value="207" />
     <option name="width" value="1614" />
     <option name="height" value="753" />
   </component>
@@ -186,6 +189,11 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="Binary Search" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -219,6 +227,12 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="Review Problem" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="Review Problem" type="462c0819:PsiDirectoryNode" />
+              <item name="gjh" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -231,11 +245,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\风之子\Desktop\leetcode\leetcode\Review Problem\gjh" />
+      <recent name="C:\Users\风之子\Desktop\leetcode\leetcode\Binary Search\src" />
       <recent name="C:\Users\风之子\Desktop\leetcode\leetcode\DP\src" />
       <recent name="C:\Users\风之子\Desktop\leetcode\leetcode\Review Problem\src" />
       <recent name="C:\Users\风之子\Desktop\leetcode\leetcode\Daily Problem\src" />
-      <recent name="C:\Users\风之子\Desktop\leetcode\leetcode\BackTracking\src" />
-      <recent name="C:\Users\风之子\Desktop\leetcode\leetcode\DFS+BFS\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\风之子\Desktop\leetcode\leetcode\DP\src" />
@@ -398,7 +412,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="159" y="186" width="1614" height="753" extended-state="0" />
+    <frame x="50" y="207" width="1614" height="753" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -406,13 +420,13 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27184466" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27184466" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.46763754" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.34726688" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3462783" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -564,14 +578,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Daily Problem/src/20-7-15-unique-binary-search-trees.py">
+    <entry file="file://$PROJECT_DIR$/Daily Problem/src/20-7-15-96-unique-binary-search-trees.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
           <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DP/src/20-7-15-unique-binary-search-trees.py">
+    <entry file="file://$PROJECT_DIR$/DP/src/20-7-15-96-unique-binary-search-trees.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Daily Problem/src/20-7-16-785-is-graph-bipartite.py">
@@ -623,8 +637,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Daily Problem/src/20-7-20-167-two-sum-ii-input-array-is-sorted.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+        <state relative-caret-position="298">
+          <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Binary Search/src/20-7-20-167-two-sum-ii-input-array-is-sorted.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Review Problem/gjh/20-7-18-97-interleaving-string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Daily Problem/src/20-7-21-95-unique-binary-search-trees-ii.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
         </state>
       </provider>
     </entry>
