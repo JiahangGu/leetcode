@@ -312,7 +312,6 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-<<<<<<< HEAD
   <component name="ToolWindowManager">
     <frame x="385" y="201" width="1600" height="849" extended-state="0" />
     <editor active="true" />
@@ -335,7 +334,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-=======
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -346,7 +344,6 @@
         </entry>
       </map>
     </option>
->>>>>>> 39c5ebe... Solve daily problem of 2020-8-27 at 2020-8-28
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -434,7 +431,6 @@
       </breakpoints>
     </breakpoint-manager>
   </component>
-<<<<<<< HEAD
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/DFS+BFS/src/20-07-07-112-path-sum.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -709,9 +705,7 @@
         </state>
       </provider>
     </entry>
-=======
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/leetcode$20_8_27_332_reconstruct_itinerary.coverage" NAME="20-8-27-332-reconstruct-itinerary Coverage Results" MODIFIED="1598596417680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Daily Problem/src" />
->>>>>>> 39c5ebe... Solve daily problem of 2020-8-27 at 2020-8-28
   </component>
 </project>
