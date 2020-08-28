@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5714efd4-7324-4e1b-9327-a85ef81c679a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,73 +140,19 @@
     <option name="width" value="1600" />
     <option name="height" value="849" />
   </component>
+  <component name="JupyterTrust" id="8db42b81-56f0-4ecd-aec9-61c1239ce98f" />
+  <component name="ProjectId" id="1gf3yFsFVLn9Rs4unWAjBCkwlOx" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Daily Problem" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Daily Problem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="DP" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="DP" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Graph" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Hash" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Review Problem" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Review Problem" type="462c0819:PsiDirectoryNode" />
-              <item name="gjh" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -201,40 +166,7 @@
       <recent name="C:\Users\风之子\Desktop\leetcode\leetcode\DP\src" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.20-8-06-336-palindrome-pairs">
-    <configuration name="1025-divisor-game" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DP/src" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/src/1025-divisor-game.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.20-8-27-332-reconstruct-itinerary">
     <configuration name="20-8-06-336-palindrome-pairs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -247,7 +179,30 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Daily Problem/src/20-8-06-336-palindrome-pairs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="20-8-27-332-reconstruct-itinerary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Daily Problem/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Daily Problem/src/20-8-27-332-reconstruct-itinerary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -268,6 +223,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/src/5-longest-palindromic-substring.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -289,6 +245,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/src/interview-0801-three-steps-problem-lccl.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -310,6 +267,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="C:\Users\风之子\Desktop\leetcode\leetcode\Daily Problem\src\20-7-22-offer-11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -320,22 +278,23 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.1025-divisor-game" />
       <item itemvalue="Python.offer-11" />
       <item itemvalue="Python.interview-0801-three-steps-problem-lccl" />
       <item itemvalue="Python.5-longest-palindromic-substring" />
       <item itemvalue="Python.20-8-06-336-palindrome-pairs" />
+      <item itemvalue="Python.20-8-27-332-reconstruct-itinerary" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.20-8-27-332-reconstruct-itinerary" />
         <item itemvalue="Python.20-8-06-336-palindrome-pairs" />
         <item itemvalue="Python.5-longest-palindromic-substring" />
         <item itemvalue="Python.interview-0801-three-steps-problem-lccl" />
         <item itemvalue="Python.offer-11" />
-        <item itemvalue="Python.1025-divisor-game" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -346,17 +305,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594080037077</updated>
+      <workItem from="1598492078963" duration="14919000" />
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="pytest_in_20-07-08-1611-diving-board-lcci_py - 2020.07.08 at 10h 15m 46s.xml">
-      <configuration name="pytest in 20-07-08-1611-diving-board-lcci.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_house_robber_test - 2020.07.08 at 22h 24m 21s.xml">
-      <configuration name="pytest for house_robber.test" configurationId="tests" />
-    </history-entry>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
+<<<<<<< HEAD
   <component name="ToolWindowManager">
     <frame x="385" y="201" width="1600" height="849" extended-state="0" />
     <editor active="true" />
@@ -379,9 +335,63 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+=======
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+>>>>>>> 39c5ebe... Solve daily problem of 2020-8-27 at 2020-8-28
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="557" y="306" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598495955279">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="557" y="306" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598495955279" />
+    <state width="1582" height="263" key="GridCell.Tab.0.bottom" timestamp="1598596417685">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1582" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598596417685" />
+    <state width="1582" height="263" key="GridCell.Tab.0.center" timestamp="1598596417685">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1582" height="263" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598596417685" />
+    <state width="1582" height="263" key="GridCell.Tab.0.left" timestamp="1598596417685">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1582" height="263" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598596417685" />
+    <state width="1582" height="263" key="GridCell.Tab.0.right" timestamp="1598596417685">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1582" height="263" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598596417685" />
+    <state width="1582" height="375" key="GridCell.Tab.1.bottom" timestamp="1598520181885">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1582" height="375" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598520181885" />
+    <state width="1582" height="375" key="GridCell.Tab.1.center" timestamp="1598520181885">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1582" height="375" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598520181885" />
+    <state width="1582" height="375" key="GridCell.Tab.1.left" timestamp="1598520181885">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1582" height="375" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598520181885" />
+    <state width="1582" height="375" key="GridCell.Tab.1.right" timestamp="1598520181885">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1582" height="375" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598520181885" />
+    <state x="358" y="172" key="SettingsEditor" timestamp="1598495903789">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="358" y="172" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598495903789" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -424,6 +434,7 @@
       </breakpoints>
     </breakpoint-manager>
   </component>
+<<<<<<< HEAD
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/DFS+BFS/src/20-07-07-112-path-sum.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -698,5 +709,9 @@
         </state>
       </provider>
     </entry>
+=======
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/leetcode$20_8_27_332_reconstruct_itinerary.coverage" NAME="20-8-27-332-reconstruct-itinerary Coverage Results" MODIFIED="1598596417680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Daily Problem/src" />
+>>>>>>> 39c5ebe... Solve daily problem of 2020-8-27 at 2020-8-28
   </component>
 </project>
