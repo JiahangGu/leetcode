@@ -44,12 +44,14 @@ class Solution:
             if pos >= len(nums):
                 return
             # 注意下面的括号，and左侧是判断是否构成递增序列，而and右侧是判断是否存在重复解，所以需要加括号防止or短路
+            # 如果这个元素合法那么选择加入这个元素
             if (not path or nums[pos] >= path[-1]) and is_first(last, pos):
                 path.append(nums[pos])
                 if len(path) > 1:
                     ans.append(path[:])
                 dfs(ans, pos, pos+1, path)
                 path.pop()
+            # 这个元素不合法，不加入
             dfs(ans, last, pos+1, path)
         ans = []
         path = []
@@ -59,6 +61,12 @@ class Solution:
         进一步优化可以将判断去重的函数由O(n)降低到O(1)水平，可知函数的作用时判断last到pos之间是否包含nums[pos]，如果将
         nums[i]之前出现过的和nums[i]相等的元素位置记录下来，那么可以O(1)判断出是否重复。假设以pre[i]表示在i之前最后一次
         出现的nums[i]的位置，则is_first中可以根据last+1 < pre[pos] < pos来判断是否重复。
+        """
+        """
+        此外还有官方题解的剪枝方法，原理很简单，如果当前数字大于等于递增序列的最大值就选择该元素，而如果该数字和前一个数字不相等
+        才会不选择他进入下一层递归。首先，选择的情况很容易理解，大于等于前一个值的一定是没有遇到过的，也就是说不存在重复的情况，
+        而不选择有两种情况，一个是和前一个相等，这个情况对应的序列在前一个数字的深层递归一定已经统计过，所以不需要跳过他进行后续
+        的排列，会产生重复解；另一个不相等时表示后续的子数组还没有访问过，则进入深层递归。
         """
 
 
