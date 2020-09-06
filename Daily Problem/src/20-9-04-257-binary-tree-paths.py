@@ -39,7 +39,7 @@ class Solution:
                 dfs(node.right, path)
             path.pop()
 
-        if not node:
+        if not root:
             return []
         ans = []
         dfs(root, [])
