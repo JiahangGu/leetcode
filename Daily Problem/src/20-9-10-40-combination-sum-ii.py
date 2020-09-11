@@ -36,6 +36,7 @@ class Solution:
         # return ans
         """
         解法2是统计数组中每个元素出现的次数，并在递归时根据当前剩余值和该元素的总个数决定应该进入多少次递归。
+        解法3是在统计结果处做hash映射判断结果是否在ans中出现从而去重，不再实现，思路是利用Rabin-Karp算法求hash。
         """
         def dfs(pos, left, path):
             if left == 0:
