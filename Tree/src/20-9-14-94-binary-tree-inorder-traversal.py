@@ -30,6 +30,7 @@ class Solution:
         while stack:
             while cur.left:
                 stack.append(cur.left)
+                cur = cur.left
             cur = stack.pop()
             ans.append(cur.val)
             cur.left = None
