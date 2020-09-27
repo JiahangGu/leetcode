@@ -18,3 +18,26 @@ class Solution:
         :param l2:
         :return:
         """
+        c = 0
+        t1 = l1
+        pre1 = None
+        pre2 = None
+        while l1 and l2:
+            val = l1.val + l2.val + c
+            c = val // 10
+            l1.val = val % 10
+            pre1 = l1
+            l1 = l1.next
+            l2 = l2.next
+        if l2:
+            pre1.next = l2
+            l1 = l2
+        while l1:
+            val = l1.val + c
+            c = val // 10
+            l1.val = val % 10
+            pre1 = l1
+            l1 = l1.next
+        if c:
+            pre1.next = ListNode(c)
+        return t1
