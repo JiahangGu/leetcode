@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # encoding: utf-8
-# @Time:2020/9/8 11:07
+# @Time:2020/10/4 20:00
 # @Author:JiahangGu
 from typing import List
 
@@ -8,27 +8,24 @@ from typing import List
 class Solution:
     def combine(self, n: int, k: int) -> List[List[int]]:
         """
-        遍历(1~n-k+1)，并记录当前组合序列，长度达到k记录。
-        注意回溯过程中会有很多无意义的递归，比如剩余元素全部加上也凑不够k位时需要剪枝，而实际上这种情况很多
-        剪枝后运行时间由604ms减少到64ms
+        首先是递归解法。首先顺序放入k个数，放到k个之后记录到解空间，回溯到上一层放入新的数字。
         :param n:
         :param k:
         :return:
         """
-        # def back_track(path, cur):
-        #     if cur > k and len(path) == k:
+        # def dfs(path, pos):
+        #     if len(path) == k:
         #         ans.append(path[:])
         #         return
-        #     # 剪枝，即剩余所有元素都加上也凑不够k位
-        #     if len(path) + (n - cur + 1) < k:
+        #     if len(path) + n - pos + 1 < k:
         #         return
-        #     for i in range(cur, n+1):
+        #     for i in range(pos, n + 1):
         #         path.append(i)
-        #         back_track(path, i+1)
+        #         dfs(path, i + 1)
         #         path.pop()
         #
         # ans = []
-        # back_track([], 1)
+        # dfs([], 1)
         # return ans
         """
         回溯算法解决这个问题过于简单，可以尝试更有挑战性的迭代方法。
@@ -45,7 +42,6 @@ class Solution:
         时这两个数字之间一定存在0，此时可以将aj的数字+1，对应于将最左边的1和1左边的0互换位置，而在寻找这个数字的过程中，将
         [0, t-1]的区间赋值为[1, t]，对应的是将1右边的所有1都移动到低位。整个过程对应二进制的转换就相当于，有连续t个1，将
         [0. t-1]的区间赋值为1，而将第t个1放到t+1的位置。
-        在实现方面，最关键的地方是，要在组合数组的最后放一个标志位k+1，作为循环的结束点，因为最后一个组合一定是[n-k+1, n]
         """
         tmp = [i for i in range(1, k+1)]
         # 第一种解是[1,k]
@@ -67,4 +63,4 @@ class Solution:
 
 
 s = Solution()
-print(s.combine(5, 3))
+print(s.combine(4, 2))
