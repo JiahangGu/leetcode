@@ -13,16 +13,33 @@ class Solution:
         :param nums:
         :return:
         """
-        def dfs(pos):
-            if pos == len(nums):
-                ans.append(nums[:])
-            for i in range(pos, len(nums)):
-                nums[i], nums[pos] = nums[pos], nums[i]
-                dfs(pos + 1)
-                nums[i], nums[pos] = nums[pos], nums[i]
+        # def dfs(pos):
+        #     if pos == len(nums):
+        #         ans.append(nums[:])
+        #     for i in range(pos, len(nums)):
+        #         nums[i], nums[pos] = nums[pos], nums[i]
+        #         dfs(pos + 1)
+        #         nums[i], nums[pos] = nums[pos], nums[i]
+        #
+        # ans = []
+        # dfs(0)
+        # return ans
+        """
+        方案2，使用标记数组记录已使用的数字。
+        """
+        def dfs(sol):
+            if len(sol) == len(nums):
+                ans.append(sol[:])
+                return
+            for i in range(len(nums)):
+                if flag[i] == 0:
+                    flag[i] = 1
+                    dfs(sol + [nums[i]])
+                    flag[i] = 0
 
+        flag = [0] * len(nums)
         ans = []
-        dfs(0)
+        dfs([])
         return ans
 
 
