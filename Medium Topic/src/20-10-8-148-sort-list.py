@@ -17,10 +17,3 @@ class Solution:
         :return:
         """
 
-d = dict()
-node = ListNode(1)
-d[1] = node
-print(d[1])
-del d[1]
-print(d.get(1, None))
-print(node)
